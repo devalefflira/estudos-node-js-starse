@@ -1,0 +1,11 @@
+{
+  "name": "estudos-node-js-startse",
+  "version": "1.0.0",
+  "description": "Iniciando com nodejs e npm",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleff Junio Silva Lins Lira",
+  "license": "MIT"
+}
