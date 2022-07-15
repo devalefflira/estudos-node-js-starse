@@ -1,0 +1,3 @@
+Link da API Pública do Star Wars
+
+https://swapi.dev/documentation

@@ -1,0 +1,17 @@
+{
+  "name": "6_for_forin_forof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "for.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.8"
+  }
+}
